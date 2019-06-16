@@ -59,7 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AreaCalculator\AreaCalculator.csproj">
-      <Project>{5a43c47c-fc62-4e55-982c-324e0b49a4eb}</Project>
+      <Project>{ea63506a-3821-4d52-b297-11f6f5662454}</Project>
       <Name>AreaCalculator</Name>
     </ProjectReference>
   </ItemGroup>
